@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanch.Interface", "Sanch.Interface\Sanch.Interface.csproj", "{01501856-63F6-4209-B822-B113A5118F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01501856-63F6-4209-B822-B113A5118F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01501856-63F6-4209-B822-B113A5118F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01501856-63F6-4209-B822-B113A5118F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01501856-63F6-4209-B822-B113A5118F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC991A52-8F0B-4174-9412-508A2A36219C}
+	EndGlobalSection
+EndGlobal
